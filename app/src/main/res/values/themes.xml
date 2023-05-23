@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyKeyboard" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#0632B3</item>
+        <item name="colorPrimaryDark">#042277</item>
+        <item name="colorAccent">#06288A</item>
+    </style>
+</resources>

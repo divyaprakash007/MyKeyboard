@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    android:layout_height="match_parent" android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:background="@android:color/white"
+    android:textColor="@color/keyboard_divider"
+    android:textSize="30sp">
+</TextView>
